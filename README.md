@@ -33,7 +33,7 @@ This project takes raw transaction CSV exports, standardizes them into a consist
 - Conditional logic (`CASE WHEN`)
 - Grouping by month
 - Joins (transactions, merchants, categories)
-- KPI-style reporting (income, spend, net)
+- KPI-style reporting (income and spend)
 
 ### Data Analyst Workflow
 - ETL pipeline design
@@ -191,5 +191,6 @@ This project reflects a real analyst workflow:
 - reliable SQL metrics
 - clear visual reporting
 - privacy-aware data handling
+
 
 It demonstrates both technical skills (Python + SQL) and data handling discipline that are valuable in a data analyst role.
