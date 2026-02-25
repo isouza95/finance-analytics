@@ -1,0 +1,43 @@
+TransactionDate,PostedDate,Description,Category,Amount,Type,Account,Balance,Currency,Pending
+2025-11-01,2025-11-01,ACME PAYROLL,Income,2723.98,Credit,Checking,5923.98,USD,False
+2025-11-02,2025-11-02,RENT PAYMENT,Housing,-1454.52,Debit,Checking,4469.46,USD,True
+2025-11-04,2025-11-05,ACME PAYROLL,Income,2568.2,Credit,Checking,7037.66,USD,False
+2025-11-06,2025-11-06,ACME PAYROLL,Income,2564.63,Credit,Checking,9602.29,USD,False
+2025-11-08,2025-11-10,SHELL,Transportation,-16.35,Debit,Checking,9585.94,USD,False
+2025-11-11,2025-11-13,SHELL,Transportation,-37.77,Debit,Credit Card,,USD,False
+2025-11-12,2025-11-12,AMAZON,Shopping,-228.42,Debit,Checking,9357.52,USD,True
+2025-11-13,2025-11-14,TRADER JOES,Groceries,-184.63,Debit,Credit Card,,USD,False
+2025-11-14,2025-11-14,AMAZON,Shopping,-120.13,Debit,Checking,9237.39,USD,False
+2025-11-15,2025-11-16,STARBUCKS,Dining,-18.93,Debit,Checking,9218.46,USD,False
+2025-11-16,2025-11-16,PHARMACY,Health,-36.53,Debit,Checking,9181.93,USD,False
+2025-11-22,2025-11-23,GOOGLE *STORAGE,Software,-13.79,Debit,Checking,9168.14,USD,False
+2025-11-25,2025-11-27,RENT PAYMENT,Housing,-1662.35,Debit,Checking,7505.79,USD,False
+2025-11-26,2025-11-26,NETFLIX,Entertainment,-10.21,Debit,Credit Card,,USD,False
+2025-11-27,2025-11-27,EXXONMOBIL,Transportation,-69.2,Debit,Checking,7436.59,USD,False
+2025-11-28,2025-11-28,GYM MEMBERSHIP,Health,-79.55,Debit,Credit Card,,USD,False
+2025-11-29,2025-11-30,SHELL,Transportation,-49.81,Debit,Checking,7386.78,USD,False
+2025-12-01,2025-12-03,LYFT,Transportation,-63.88,Debit,Checking,7322.9,USD,False
+2025-12-02,2025-12-04,ZELLE,Transfers,247.98,Credit,Credit Card,,USD,False
+2025-12-04,2025-12-04,STARBUCKS,Dining,-51.5,Debit,Checking,7271.4,USD,False
+2025-12-05,2025-12-06,VENMO,Transfers,-71.21,Debit,Checking,7200.19,USD,False
+2025-12-08,2025-12-10,TRADER JOES,Groceries,-112.34,Debit,Checking,7087.85,USD,False
+2025-12-09,2025-12-11,EXXONMOBIL,Transportation,-80.96,Debit,Checking,7006.89,USD,False
+2025-12-10,2025-12-10,UBER,Transportation,-79.6,Debit,Credit Card,,USD,False
+2025-12-11,2025-12-13,TARGET,Shopping,-211.46,Debit,Credit Card,,USD,False
+2025-12-12,2025-12-12,NETFLIX,Entertainment,-13.41,Debit,Checking,6993.48,USD,False
+2025-12-13,2025-12-13,ACME PAYROLL,Income,2316.57,Credit,Checking,9310.05,USD,False
+2025-12-14,2025-12-14,AT&T,Utilities,-84.75,Debit,Checking,9225.3,USD,False
+2025-12-15,2025-12-16,INTEREST PAID,Interest,3.99,Credit,Savings,853.99,USD,False
+2025-12-17,2025-12-18,UBER,Transportation,-16.37,Debit,Checking,9208.93,USD,False
+2025-12-18,2025-12-18,INTEREST PAID,Interest,0.47,Credit,Savings,854.46,USD,False
+2025-12-20,2025-12-21,SHELL,Transportation,-23.46,Debit,Checking,9185.47,USD,False
+2025-12-22,2025-12-22,TRADER JOES,Groceries,-183.66,Debit,Checking,9001.81,USD,False
+2025-12-23,2025-12-23,RENT PAYMENT,Housing,-1473.45,Debit,Checking,7528.36,USD,False
+2025-12-25,2025-12-25,CHIPOTLE,Dining,-59.05,Debit,Credit Card,,USD,False
+2025-12-26,2025-12-28,SPOTIFY,Entertainment,-20.56,Debit,Credit Card,,USD,False
+2025-12-27,2025-12-29,VENMO,Transfers,-77.82,Debit,Checking,7450.54,USD,False
+2025-12-31,2026-01-02,ZELLE,Transfers,145.8,Credit,Checking,7596.34,USD,False
+2026-01-02,2026-01-04,TARGET,Shopping,-285.99,Debit,Checking,7310.35,USD,False
+2026-01-05,2026-01-06,STATE FARM,Insurance,-250.86,Debit,Checking,7059.49,USD,False
+2026-01-07,2026-01-07,APPLE.COM/BILL,Software,-10.22,Debit,Checking,7049.27,USD,False
+2026-01-09,2026-01-10,STATE FARM,Insurance,-130.26,Debit,Credit Card,,USD,False
