@@ -154,7 +154,7 @@ This keeps personal financial information private while still demonstrating the 
   - Total expense by month (reported as positive values for readability)
 - **Monthly Income vs Spend**
   - Side-by-side bar chart comparing income and spending
-  ![Monthly spending bar chart](output/figures/SampleIncomeSpendChart.png)
+  ![Monthly income vs spend double bar chart](output/figures/SampleIncomeSpendChart.png)
 
 
 ---
@@ -192,4 +192,6 @@ This project reflects a real analyst workflow:
 - clear visual reporting
 - privacy-aware data handling
 
+
 It demonstrates both technical skills (Python + SQL) and data handling discipline that are valuable in a data analyst role.
+
