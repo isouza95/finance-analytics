@@ -1,0 +1,29 @@
+# Virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Local SQLite database
+data/finance.db
+*.db
+
+# Raw/private bank exports (do not commit real statements)
+data/raw/
+
+# Optional generated outputs (keep if you want to track charts/csvs)
+# output/
+# output/figures/
+# output/*.csv
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
